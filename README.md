@@ -1,3 +1,3 @@
 # uso-img-en-repo
 
-<img src="img/cursa.png" alt="cursa" width=" 50%;">
+<img src="img/cursa.png" alt="cursa" style=width" 50%;">
